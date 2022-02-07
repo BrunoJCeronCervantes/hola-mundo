@@ -1,5 +1,6 @@
-# hola-mundo
-Mi primer repositorio de prueba.
+# Hola-mundo
+Mi primer repositorio.
 
 Autor: Bruno J. Ceron Cervantes
-Fecha 7 de enero 2022
+
+Fecha: 7 de enero 2022
